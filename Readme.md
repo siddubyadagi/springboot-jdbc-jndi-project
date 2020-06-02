@@ -1,11 +1,11 @@
 # Read Me First
 
 # Getting Started
-###: Spring boot 2.x
+### Spring boot 2.x
 ###  maven 3.6.3
 ### JPA
 ### MySQL
-### Tomcat Embaded + JNDI
+### Tomcat Embadded + JNDI
 
 http://localhost:8080/company
 

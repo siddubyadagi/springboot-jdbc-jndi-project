@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.accurate.solutions</groupId>
-	<artifactId>springboot-jdbc-jndi-project</artifactId>
+	<artifactId>springboot-jpa-jndidatasource-tomcat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-jdbc-jndi-project</name>
 	<description>Demo project for Spring Boot</description>
